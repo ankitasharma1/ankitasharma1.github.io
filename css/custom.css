@@ -1,0 +1,75 @@
+.profilePic {
+	width: 400px;
+	height:300px;
+	border-radius: 20%;
+}
+
+.startPgBackGround {
+	background-image: url("traffic3.png");
+	
+}
+
+.intro-text {
+	color: white;	
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+header .intro-text .education {
+  font-size: 1.25em;
+  font-weight: 150;
+}
+
+hr.introSep {
+	padding: 0;
+  	border: none;
+  	border-top: solid 5px;
+  	text-align: center;
+  	max-width: 250px;
+  	margin: 25px auto 30px;
+  	border-color: white;
+  	color: white;
+}
+
+hr.introBlueSep {
+	padding: 0;
+  	border: none;
+  	border-top: solid 5px;
+  	text-align: center;
+  	max-width: 250px;
+  	margin: 25px auto 30px;
+  	border-color: #2C3E50;
+  	color: white;
+}
+
+.important {
+	color: #5078a0;
+}
+
+.skills {
+  font-size: 25px;
+}
+
+.interests {
+  font-size: 25px;
+}
+
+a.aboutAnk:hover {
+  color: white;
+}
+
+a.aboutAnk:visited {
+  color: white;
+}
+
+#about {
+  background-image: url("blur.jpg");
+}
+
+.textabout1 {
+  font-size: 25px;
+}
+
+.textabout2 {
+  font-size: 25px;
+}
+
